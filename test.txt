@@ -1,3 +1,5 @@
 This is Git Basics, initialising the Repository and Creating another Commit.
 
 This is line for second commit.
+
+Renamed repository on github.
