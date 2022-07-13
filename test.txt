@@ -1,1 +1,3 @@
 This is Git Basics, initialising the Repository and Creating first Commit.
+
+This is line for second commit.
